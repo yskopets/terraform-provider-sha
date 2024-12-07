@@ -1,7 +1,8 @@
 module github.com/yskopets/terraform-provider-sha
 
-go 1.22.5
-toolchain go1.22.10
+go 1.22.7
+
+toolchain go1.23.1
 
 require (
 	github.com/hashicorp/terraform-plugin-docs v0.20.1
